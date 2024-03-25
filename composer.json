@@ -1,6 +1,6 @@
 {
     "name": "violettakalugina/php_practice",
-    "description": "Simple mvc framework",
+    "description": "mvc framework",
     "type": "project",
     "license": "MIT",
     "autoload": {
