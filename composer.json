@@ -1,13 +1,8 @@
 {
-    "name": "violettakalugina/php_practice",
-    "description": "mvc framework",
+    "name": "kaluginavioletta/php_practice",
+    "description": "MVC",
     "type": "project",
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Violettakalugina\\PhpPractice\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "kaluginavioletta",
